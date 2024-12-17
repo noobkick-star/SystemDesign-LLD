@@ -1,0 +1,12 @@
+SOLID
+S- single responsibility principle
+O- Open close principle
+L- Liskov Substitution Principle
+I- Interface segmented Principle
+D- Dependency inversion principle
+
+s - a class should have only one reason to change
+o - open for extension and closed for modification
+l - subclass should extend the capabilities of parent , not narrow it down
+i - it should be such that client should not implement unwanted method
+d - class should depend on interface rather than concrete class

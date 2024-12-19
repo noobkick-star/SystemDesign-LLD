@@ -1,7 +1,7 @@
 package LLD.SystemDesign.ObserverDesignPattern;
 
 
-public class ObserverDesignPattern {
+public class ObserverDesignPatternMain {
     public static void main(String[] args) {
         Observerable temperatureObservable = new TemperatureObservable();
         Observerable humidityObservable = new HumidityObservable();
